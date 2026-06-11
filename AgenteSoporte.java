@@ -24,4 +24,4 @@ public class AgenteSoporte {
     public NivelTecnico getNivel()     { return nivel; }
     public double getCargaAcumulada()  { return cargaAcumulada; }
 }
-// FEATURE: Asignacion automatica de agentes - v2.0
+// FEATURE: Reportes del sistema - Samuel Ventura
