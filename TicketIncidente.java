@@ -39,4 +39,4 @@ public final class TicketIncidente {
     public double getPrioridad()            { return prioridad; }
     public NivelTecnico getNivelRequerido() { return nivelRequerido; }
 }
-// FEATURE: Registro de tickets - v2.0
+// FEATURE: Validacion de tickets - Jose Luis Chambilla
