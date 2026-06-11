@@ -24,3 +24,4 @@ public class AgenteSoporte {
     public NivelTecnico getNivel()     { return nivel; }
     public double getCargaAcumulada()  { return cargaAcumulada; }
 }
+// FEATURE: Reportes del sistema - Samuel Ventura
